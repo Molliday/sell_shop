@@ -98,3 +98,69 @@ console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkErr
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1638425134627	geckodriver	INFO	Listening on 127.0.0.1:55004
+1638425137752	mozrunner::runner	INFO	Running command: "system/firefox/geckodriver.exe" "--marionette" "--remote-debugging-port" "55005" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileNIi8eF"
+system/firefox/geckodriver.exe: error: Found argument '--marionette' which wasn't expected, or isn't valid in this context
+	Did you mean --marionette-host?
+
+USAGE:
+    geckodriver.exe --marionette-host <HOST>
+
+For more information try --help
+
+1638425193073	geckodriver	INFO	Listening on 127.0.0.1:55063
+1638425196125	mozrunner::runner	INFO	Running command: "system/firefox/geckodriver.exe" "--marionette" "--remote-debugging-port" "55064" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileT1FBNa"
+system/firefox/geckodriver.exe: error: Found argument '--marionette' which wasn't expected, or isn't valid in this context
+	Did you mean --marionette-host?
+
+USAGE:
+    geckodriver.exe --marionette-host <HOST>
+
+For more information try --help
+
+1638425241991	geckodriver	INFO	Listening on 127.0.0.1:55078
+1638425245047	mozrunner::runner	INFO	Running command: "system/firefox/firefox.exe" "--marionette" "--remote-debugging-port" "55079" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile2E5o9l"
+1638425245413	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile2E5o9l\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55079/devtools/browser/8c636f9d-561c-4415-9e4b-dc726da7dc03
+1638425247773	Marionette	INFO	Listening on port 55084
+1638425248275	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638425590387	Marionette	INFO	Stopped listening on port 55084
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1638425845627	geckodriver	INFO	Listening on 127.0.0.1:55395
+1638425848714	mozrunner::runner	INFO	Running command: "system/firefox/firefox.exe" "--marionette" "--remote-debugging-port" "55396" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileNEYTzF"
+1638425849091	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileNEYTzF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55396/devtools/browser/7d7b9830-a3c3-4a30-95fe-8ce9b32a5f0e
+1638425851564	Marionette	INFO	Listening on port 55402
+1638425851912	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg//assets/2581.7907afbc0d79295560eb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg//assets/2581.7907afbc0d79295560eb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg//assets/2581.7907afbc0d79295560eb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638425861857	Marionette	INFO	Stopped listening on port 55402
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Admin\AppData\Local\Temp\rust_mozprofileNEYTzF\protections.sqlite
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
