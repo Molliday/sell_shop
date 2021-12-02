@@ -1,0 +1,100 @@
+1638251837967	geckodriver	INFO	Listening on 127.0.0.1:50126
+1638251841100	mozrunner::runner	INFO	Running command: "system/firefox/firefox.exe" "--marionette" "--remote-debugging-port" "50127" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile3alWjt"
+1638251841616	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile3alWjt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50127/devtools/browser/6a648963-1e69-4423-8941-e47ca9df31a3
+1638251844152	Marionette	INFO	Listening on port 50132
+1638251844313	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638251845738	Marionette	INFO	Stopped listening on port 50132
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1638251868800	geckodriver	INFO	Listening on 127.0.0.1:50168
+1638251871928	mozrunner::runner	INFO	Running command: "system/firefox/firefox.exe" "--marionette" "--remote-debugging-port" "50169" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileaCxRfP"
+1638251872299	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileaCxRfP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50169/devtools/browser/51ea48bf-91a5-4c5d-b56d-b025c157a7d1
+1638251874888	Marionette	INFO	Listening on port 50174
+1638251875196	Marionette	INFO	Stopped listening on port 50174
+1638252165034	geckodriver	INFO	Listening on 127.0.0.1:50526
+1638252168164	mozrunner::runner	INFO	Running command: "system/firefox/firefox.exe" "--marionette" "--remote-debugging-port" "50527" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilexxgQEZ"
+1638252169705	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilexxgQEZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50527/devtools/browser/e581345b-69ab-46c0-8cf7-cd4aea5176e8
+1638252173152	Marionette	INFO	Listening on port 50533
+1638252173597	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg//assets/2581.7907afbc0d79295560eb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg//assets/2581.7907afbc0d79295560eb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg//assets/2581.7907afbc0d79295560eb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1638253669407	Marionette	INFO	Stopped listening on port 50533
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Admin\AppData\Local\Temp\rust_mozprofilexxgQEZ\protections.sqlite
+1638253803155	geckodriver	INFO	Listening on 127.0.0.1:50898
+1638253806278	mozrunner::runner	INFO	Running command: "system/firefox/firefox.exe" "--marionette" "--remote-debugging-port" "50899" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile88mzGs"
+1638253806750	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile88mzGs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50899/devtools/browser/ce49ae66-255c-4fde-93ba-f0d9edf0eefa
+1638253809574	Marionette	INFO	Listening on port 50904
+1638253809979	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg//assets/2581.7907afbc0d79295560eb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg//assets/2581.7907afbc0d79295560eb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg//assets/2581.7907afbc0d79295560eb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638253858612	Marionette	INFO	Stopped listening on port 50904
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Admin\AppData\Local\Temp\rust_mozprofile88mzGs\protections.sqlite
+1638254076290	geckodriver	INFO	Listening on 127.0.0.1:51131
+1638254079406	mozrunner::runner	INFO	Running command: "system/firefox/firefox.exe" "--marionette" "--remote-debugging-port" "51132" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileWp5v71"
+1638254079875	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileWp5v71\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51132/devtools/browser/bf15d986-433d-4557-a1a5-b38dd6028b6b
+1638254083010	Marionette	INFO	Listening on port 51138
+1638254083171	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg//assets/2581.7907afbc0d79295560eb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg//assets/2581.7907afbc0d79295560eb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg//assets/2581.7907afbc0d79295560eb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1638254184635	Marionette	INFO	Stopped listening on port 51138
+[Parent 10960, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 10960, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 10960, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1638254214675	geckodriver	INFO	Listening on 127.0.0.1:51276
+1638254217831	mozrunner::runner	INFO	Running command: "system/firefox/firefox.exe" "--marionette" "--remote-debugging-port" "51277" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileiEzkMd"
+1638254218428	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileiEzkMd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51277/devtools/browser/e5754109-273f-42e4-989f-ebd82ee931c8
+1638254221927	Marionette	INFO	Listening on port 51282
+1638254222078	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg//assets/2581.7907afbc0d79295560eb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg//assets/2581.7907afbc0d79295560eb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg//assets/2581.7907afbc0d79295560eb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1638263780109	Marionette	INFO	Stopped listening on port 51282
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Admin\AppData\Local\Temp\rust_mozprofileiEzkMd\protections.sqlite
+54bae-c376-4ee9-a0bf-dab6ed40cf7d
+1638254598666	Marionette	INFO	Listening on port 51447
+1638254598888	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg//assets/2581.7907afbc0d79295560eb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg//assets/2581.7907afbc0d79295560eb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg//assets/2581.7907afbc0d79295560eb.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/o/oauth2/auth?redirect_uri=storagerelay%3A%2F%2Fhttps%2Fshopee.co.id%3Fid%3Dauth473318&response_type=permission%20id_token&scope=email%20profile%20openid&openid.realm=&include_granted_scopes=true&client_id=549970890748-4c56itq8mna6l1pdgvalflaic4lddotg.apps.googleusercontent.com&ss_domain=https%3A%2F%2Fshopee.co.id&fetch_basic_profile=true&gsiwebsdk=2 line 1 > eval line 7378 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1638263778886	Marionette	INFO	Stopped listening on port 51447
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
